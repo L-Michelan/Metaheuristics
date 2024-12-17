@@ -1,0 +1,1 @@
+Metaheuristics code for dengue breeder recognition and dengue population control via UAV and some metaheuristics for solving complex mathematical problems (finding zeros of a function with a high complexity level and finding solutions to a high complexity function system)
